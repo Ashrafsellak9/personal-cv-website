@@ -12,7 +12,7 @@ Clonez ce dépôt sur votre machine locale :
 
 bash
 Copy code
-git clone https://github.com/votre-nom-utilisateur/CV_HTML_CSS.git
+git clone https://github.com/Ashrafsellak9/CV_HTML_CSS.git
 Ouvrez le fichier index.html dans votre navigateur.
 
 Fonctionnalités
